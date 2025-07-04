@@ -13,12 +13,8 @@ Classify children's lung capacity into "High" or "Low" using features like Age, 
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Classification Label Creation
-- Baseline Model Setup (Decision Tree)
-
-##  Model Plan
-- Classification models: Decision Tree, Logistic Regression, Random Forest
-- Evaluation metrics: Accuracy, F1-score, Confusion Matrix
-- Hyperparameter tuning with GridSearchCV (Week 4)
+- Baseline Model Setup (Decision Tree,Logistic Regression,Random Forest,Support Vector Machine)
+- Fine Tuning of Models
 
 ##  Deliverable Link
-This repository is part of my ML Internship project for Week 3–4.
+This repository is part of my ML Internship project.
